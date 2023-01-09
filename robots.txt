@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tafsir-jilaks.github.io/jilak-1/sitemap.xml
